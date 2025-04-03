@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your-username/pdf-processor.git
+    git clone [https://github.com/your-username/pdf-processor.git](https://github.com/nolletinfluence/pdf_reader.git)
     ```
 
 2. Перейдите в директорию проекта:
